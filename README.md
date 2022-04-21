@@ -4,8 +4,8 @@ In cybersecurity, practice makes perfect. Don't be like me, I'm lazy person. Jus
 ( ͡° ͜ʖ ͡°)
 
 ### CTF Based
-- PicoCTF - [https://picoctf.com](https://t.co/h1uREuWXiy)
-- CTFLearn - [https://ctflearn.com/](https://ctflearn.com/)
+- PicoCTF - [https://picoctf.com](https://picoctf.com)
+- CTFLearn - [https://ctflearn.com/]
 - Academy Hackaflag BR - [https://hackaflag.com.br](https://t.co/Gms20VJPjx) 
 - CTF Komodo Security - [https://ctf.komodosec.com](https://t.co/x5UEVXa3u4) 
 - Hacker Security - [https://capturetheflag.com.br](https://t.co/oHODi8vu4F) 
