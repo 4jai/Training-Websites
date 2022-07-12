@@ -17,6 +17,7 @@ In cybersecurity, practice makes perfect. Don't be like me, I'm lazy person. Jus
 - DreamHack - https://dreamhack.io/
 - RingZer0 - https://ringzer0ctf.com/home
 - SKR CTF - https://skrctf.me/
+- CTF Challange - https://ctfchallenge.com/
 
 ### CyberSecurity Training Based
 - HackTheBox - https://hackthebox.com
